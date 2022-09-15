@@ -74,6 +74,7 @@ i{
 }
 button:hover, i:hover{
     background-color: hsl(228, 45%, 44%);
+    color: white;
 }
 button:hover{
     box-shadow: 2px 2px 2px hsl(228, 45%, 44%);
@@ -82,7 +83,7 @@ footer{
     color: hsl(0, 0%, 59%);
     text-align: center;
 }
-.mentor, footer p{
+.mentor,footer p{
     font-size: 11px; 
     text-align: center;
 }
